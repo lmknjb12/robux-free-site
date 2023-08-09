@@ -1,0 +1,288 @@
+Uri: https://blox.land/
+File Name: C:\Downloaded Web Sites\blox.land\index.htm
+Content Type: text/html
+
+Uri: https://blox.land/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\blox.land\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://blox.land/assets/css/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\blox.land\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://blox.land/assets/css/introjs.min.css
+File Name: C:\Downloaded Web Sites\blox.land\assets\css\introjs.min.css
+Content Type: text/css
+
+Uri: https://blox.land/assets/css/pyro.css
+File Name: C:\Downloaded Web Sites\blox.land\assets\css\pyro.css
+Content Type: text/css
+
+Uri: https://blox.land/assets/css/roundslider.min.css
+File Name: C:\Downloaded Web Sites\blox.land\assets\css\roundslider.min.css
+Content Type: text/css
+
+Uri: https://blox.land/assets/css/style-78be0df4.css?185aa118
+File Name: C:\Downloaded Web Sites\blox.land\assets\css\style-78be0df4.css
+Content Type: text/css
+
+Uri: https://blox.land/assets/css/summernote-bs4.css
+File Name: C:\Downloaded Web Sites\blox.land\assets\css\summernote-bs4.css
+Content Type: text/css
+
+Uri: https://blox.land/assets/css/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\blox.land\assets\css\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://blox.land/assets/icons/rewards/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\blox.land\assets\icons\rewards\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://blox.land/assets/icons/rewards/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\blox.land\assets\icons\rewards\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://blox.land/assets/icons/rewards/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\blox.land\assets\icons\rewards\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://blox.land/assets/icons/rewards/favicon.ico
+File Name: C:\Downloaded Web Sites\blox.land\assets\icons\rewards\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://blox.land/assets/icons/rewards/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\blox.land\assets\icons\rewards\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://blox.land/assets/icons/rewards/site.webmanifest
+File Name: C:\Downloaded Web Sites\blox.land\assets\icons\rewards\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://blox.land/assets/img/avatar.png
+File Name: C:\Downloaded Web Sites\blox.land\assets\img\avatar.png
+Content Type: image/png
+
+Uri: https://blox.land/assets/img/logo-white.png
+File Name: C:\Downloaded Web Sites\blox.land\assets\img\logo-white.png
+Content Type: image/png
+
+Uri: https://blox.land/assets/img/logo_text_white.png
+File Name: C:\Downloaded Web Sites\blox.land\assets\img\logo_text_white.png
+Content Type: image/png
+
+Uri: https://blox.land/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\blox.land\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://blox.land/assets/js/intro.min.js
+File Name: C:\Downloaded Web Sites\blox.land\assets\js\intro.min.js
+Content Type: application/javascript
+
+Uri: https://blox.land/assets/js/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\blox.land\assets\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://blox.land/assets/js/roundslider.min.js
+File Name: C:\Downloaded Web Sites\blox.land\assets\js\roundslider.min.js
+Content Type: application/javascript
+
+Uri: https://blox.land/assets/js/script-4bbb5b20.js?mmmbbgg
+File Name: C:\Downloaded Web Sites\blox.land\assets\js\script-4bbb5b20.js
+Content Type: application/javascript
+
+Uri: https://blox.land/assets/js/sweetalert2.min.js
+File Name: C:\Downloaded Web Sites\blox.land\assets\js\sweetalert2.min.js
+Content Type: application/javascript
+
+Uri: https://blox.land/assets/js/typed.min.js
+File Name: C:\Downloaded Web Sites\blox.land\assets\js\typed.min.js
+Content Type: application/javascript
+
+Uri: https://blox.land/assets/svg/abstract-shapes-10.svg
+File Name: C:\Downloaded Web Sites\blox.land\assets\svg\abstract-shapes-10.svg
+Content Type: image/svg+xml
+
+Uri: https://blox.land/assets/svg/abstract-shapes-4.svg
+File Name: C:\Downloaded Web Sites\blox.land\assets\svg\abstract-shapes-4.svg
+Content Type: image/svg+xml
+
+Uri: https://blox.land/assets/svg/irregular-shape-2-bottom.svg
+File Name: C:\Downloaded Web Sites\blox.land\assets\svg\irregular-shape-2-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://blox.land/assets/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blox.land/assets/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blox.land/assets/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://blox.land/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://blox.land/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://blox.land/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://blox.land/assets/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blox.land/assets/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blox.land/assets/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://blox.land/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://blox.land/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://blox.land/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://blox.land/assets/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blox.land/assets/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blox.land/assets/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://blox.land/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://blox.land/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://blox.land/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://blox.land/assets/webfonts/summernote.eot?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\summernote.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blox.land/assets/webfonts/summernote.ttf?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\summernote.ttf
+Content Type: application/octet-stream
+
+Uri: https://blox.land/assets/webfonts/summernote.woff?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\Downloaded Web Sites\blox.land\assets\webfonts\summernote.woff
+Content Type: font/woff
+
+Uri: https://blox.land/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://blox.land/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://blox.land/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://blox.land/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://blox.land/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\blox.land\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://blox.land/enter
+File Name: C:\Downloaded Web Sites\blox.land\enter.html
+Content Type: text/html
+
+Uri: https://blox.land/eula
+File Name: C:\Downloaded Web Sites\blox.land\eula.html
+Content Type: text/html
+
+Uri: https://blox.land/forgot
+File Name: C:\Downloaded Web Sites\blox.land\forgot.html
+Content Type: text/html
+
+Uri: https://blox.land/join
+File Name: C:\Downloaded Web Sites\blox.land\join.html
+Content Type: text/html
+
+Uri: https://blox.land/login
+File Name: C:\Downloaded Web Sites\blox.land\login.html
+Content Type: text/html
+
+Uri: https://blox.land/privacy-policy
+File Name: C:\Downloaded Web Sites\blox.land\privacy-policy.html
+Content Type: text/html
+
+Uri: https://blox.land/return-policy
+File Name: C:\Downloaded Web Sites\blox.land\return-policy.html
+Content Type: text/html
+
+Uri: https://blox.land/terms
+File Name: C:\Downloaded Web Sites\blox.land\terms.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-122952025-1
+File Name: C:\Downloaded Web Sites\blox.land\gtag\js
+Content Type: application/javascript
+
